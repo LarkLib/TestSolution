@@ -1,0 +1,12 @@
+/home/jetson/projects/TestSolution/TestWebApplication
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=TestWebApplication
+--content-root=/home/jetson/projects/TestSolution/TestWebApplication
+--file=/home/jetson/projects/TestSolution/TestWebApplication/Views/Home/About.cshtml
+--file=/home/jetson/projects/TestSolution/TestWebApplication/Views/Home/Contact.cshtml
+--file=/home/jetson/projects/TestSolution/TestWebApplication/Views/Home/Index.cshtml
+--file=/home/jetson/projects/TestSolution/TestWebApplication/Views/Shared/Error.cshtml
+--file=/home/jetson/projects/TestSolution/TestWebApplication/Views/Shared/_Layout.cshtml
+--file=/home/jetson/projects/TestSolution/TestWebApplication/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/home/jetson/projects/TestSolution/TestWebApplication/Views/_ViewImports.cshtml
+--file=/home/jetson/projects/TestSolution/TestWebApplication/Views/_ViewStart.cshtml

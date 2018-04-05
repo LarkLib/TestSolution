@@ -1,0 +1,16 @@
+/home/jetson/projects/TestSolution/TestProject/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/jetson/projects/TestSolution/TestProject/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/jetson/projects/TestSolution/TestProject/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/jetson/projects/TestSolution/TestProject/bin/Debug/netcoreapp2.0/TestProject.deps.json
+/home/jetson/projects/TestSolution/TestProject/bin/Debug/netcoreapp2.0/TestProject.runtimeconfig.json
+/home/jetson/projects/TestSolution/TestProject/bin/Debug/netcoreapp2.0/TestProject.runtimeconfig.dev.json
+/home/jetson/projects/TestSolution/TestProject/bin/Debug/netcoreapp2.0/TestProject.dll
+/home/jetson/projects/TestSolution/TestProject/bin/Debug/netcoreapp2.0/TestProject.pdb
+/home/jetson/projects/TestSolution/TestProject/obj/Debug/netcoreapp2.0/TestProject.csproj.CoreCompileInputs.cache
+/home/jetson/projects/TestSolution/TestProject/obj/Debug/netcoreapp2.0/TestProject.AssemblyInfoInputs.cache
+/home/jetson/projects/TestSolution/TestProject/obj/Debug/netcoreapp2.0/TestProject.AssemblyInfo.cs
+/home/jetson/projects/TestSolution/TestProject/obj/Debug/netcoreapp2.0/TestProject.dll
+/home/jetson/projects/TestSolution/TestProject/obj/Debug/netcoreapp2.0/TestProject.pdb
+/home/jetson/projects/TestSolution/TestProject/bin/Debug/netcoreapp2.0/appsettings.json
+/home/jetson/projects/TestSolution/TestProject/bin/Debug/netcoreapp2.0/TestConsoleApp.dll
+/home/jetson/projects/TestSolution/TestProject/bin/Debug/netcoreapp2.0/TestConsoleApp.pdb

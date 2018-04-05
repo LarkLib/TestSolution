@@ -1,0 +1,11 @@
+/home/jetson/projects/TestSolution/TestConsoleApp/bin/Debug/netcoreapp2.0/TestConsoleApp.deps.json
+/home/jetson/projects/TestSolution/TestConsoleApp/bin/Debug/netcoreapp2.0/TestConsoleApp.runtimeconfig.json
+/home/jetson/projects/TestSolution/TestConsoleApp/bin/Debug/netcoreapp2.0/TestConsoleApp.runtimeconfig.dev.json
+/home/jetson/projects/TestSolution/TestConsoleApp/bin/Debug/netcoreapp2.0/TestConsoleApp.dll
+/home/jetson/projects/TestSolution/TestConsoleApp/bin/Debug/netcoreapp2.0/TestConsoleApp.pdb
+/home/jetson/projects/TestSolution/TestConsoleApp/obj/Debug/netcoreapp2.0/TestConsoleApp.csproj.CoreCompileInputs.cache
+/home/jetson/projects/TestSolution/TestConsoleApp/obj/Debug/netcoreapp2.0/TestConsoleApp.AssemblyInfoInputs.cache
+/home/jetson/projects/TestSolution/TestConsoleApp/obj/Debug/netcoreapp2.0/TestConsoleApp.AssemblyInfo.cs
+/home/jetson/projects/TestSolution/TestConsoleApp/obj/Debug/netcoreapp2.0/TestConsoleApp.dll
+/home/jetson/projects/TestSolution/TestConsoleApp/obj/Debug/netcoreapp2.0/TestConsoleApp.pdb
+/home/jetson/projects/TestSolution/TestConsoleApp/bin/Debug/netcoreapp2.0/appsettings.json
