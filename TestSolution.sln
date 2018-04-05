@@ -6,6 +6,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebApplication", "TestWebApplication\TestWebApplication.csproj", "{5805306D-6219-429B-B39C-6C034BB61CBB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "info", "info", "{52124FD4-068C-40B8-AABC-8D4B91DC66C0}"
+ProjectSection(SolutionItems) = preProject
+	info\bookmarks.html = info\bookmarks.html
+	info\info.txt = info\info.txt
+EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

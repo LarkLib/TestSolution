@@ -143,6 +143,10 @@
           </e>
         </e>
       </e>
+      <e p="info" t="Include">
+        <e p="bookmarks.html" t="Include" />
+        <e p="info.txt" t="Include" />
+      </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>
